@@ -1,1 +1,1 @@
-opioid_data <- read.csv("/Users/xeliot/Downloads/CDCOpioidData.csv", header=TRUE)
+opioid_data <- read.csv("CDCOpioidData.csv", header=TRUE)
